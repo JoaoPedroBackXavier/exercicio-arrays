@@ -1,0 +1,10 @@
+//let x = ["sorvete", "arroz", "feijão", "pastel", "picanha"]
+//console.log(x)
+//console.log("essas sao minhas comidas preferidas:")
+//console.log(x[0])
+//console.log(x[1])
+//console.log(x[2])
+//console.log(x[3])
+//console.log(x[4])
+//x[1] = prompt("qual sua comida favorita")
+//console.log(x)
